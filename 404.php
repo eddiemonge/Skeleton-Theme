@@ -5,7 +5,7 @@
 
 		<article id="post-0" class="post error404 not-found">
 			<header class="entry-header">
-				<h1 class="entry-title"><?php _e( 'Shot on goal! Missed!' ); ?></h1>
+				<h1 class="entry-title"><?php _e( 'Page Not Found' ); ?></h1>
 			</header>
 
 			<div class="entry-content">
