@@ -38,7 +38,7 @@
 
 <body class="site">
 
-<div id="skip-link" class="hide"><a href="#content" title="<?php _e('Skip to primary content', 'arsenal'); ?>"><?php _e( 'Skip to primary content' ); ?></a></div>
+<div id="skip-link" class="hide"><a href="#content" title="<?php _e('Skip to primary content'); ?>"><?php _e( 'Skip to primary content' ); ?></a></div>
 
 <header id="logo">
 	<hgroup class="<?php echo ( is_home() || is_front_page() ? 'home' : 'subpages' );?>">
